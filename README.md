@@ -1,1 +1,1 @@
-# Bootstrap-Portfolio
+Update from the basic portfolio. Uses bootstrap to make the website responsive.
